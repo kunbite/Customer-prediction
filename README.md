@@ -4,36 +4,37 @@ The dissertation investigates the use of machine learning techniques to predict 
 
 # Objectives
 Preprocess and prepare the dataset for machine learning applications.<br/>
-Conduct thorough Exploratory Data Analysis (EDA) to identify significant factors influencing customer satisfaction.
-Develop, compare, and optimize various machine learning models to predict customer satisfaction accurately.
-Validate the final optimized model using a distinct test dataset.
+Conduct thorough Exploratory Data Analysis (EDA) to identify significant factors influencing customer satisfaction. <br/>
+Develop, compare, and optimize various machine learning models to predict customer satisfaction accurately. <br/>
+Validate the final optimized model using a distinct test dataset. <br/>
 Interpret the model's findings to provide critical insights into predictors of customer satisfaction and practical applications for the airline industry.
 # Technologies Used
-Programming Languages: Python
-Machine Learning Libraries: scikit-learn, XGBoost, CatBoost
-Visualization Tools: Matplotlib, Seaborn
+Programming Languages: Python<br/>
+Machine Learning Libraries: scikit-learn, XGBoost, CatBoost<br/>
+Visualization Tools: Matplotlib, Seaborn<br/>
 Data Analysis Tools: Pandas, NumPy
 
 # Machine Learning Models
-AdaBoost
-Gradient Boosting
-Random Forest
-K-Nearest Neighbors
-XGBoost
-Decision Trees
-CatBoost
-Bagging
+AdaBoost,
+Gradient Boosting,
+Random Forest,
+K-Nearest Neighbors,
+XGBoost,
+Decision Trees,
+CatBoost,
+Bagging.
 # Key Findings
-Significant Factors: Identified key factors influencing customer satisfaction, such as service quality, flight delays, and customer demographics.
-Model Performance: The Gradient Boosting model demonstrated the highest accuracy in predicting customer satisfaction, followed by Random Forest and XGBoost.
+Significant Factors: Identified key factors influencing customer satisfaction, such as service quality, flight delays, and customer demographics.<br/>
+Model Performance: The Gradient Boosting model demonstrated the highest accuracy in predicting customer satisfaction, followed by Random Forest and XGBoost.<br/>
 Feature Importance: Features related to service evaluation and flight experience were found to be the most significant predictors of customer satisfaction.
 # Key Achievements
-Successfully preprocessed a large dataset and conducted extensive exploratory data analysis.
-Developed and evaluated multiple machine learning models, achieving high prediction accuracy.
+Successfully preprocessed a large dataset and conducted extensive exploratory data analysis.<br/>
+Developed and evaluated multiple machine learning models, achieving high prediction accuracy.<br/>
 Provided actionable insights into key factors affecting customer satisfaction in the airline industry.
 # Conclusions
-The study demonstrates that machine learning models can effectively predict airline customer satisfaction by identifying significant predictors and providing valuable insights for improving customer service. The findings suggest that airlines can enhance customer satisfaction and loyalty by focusing on key factors identified in the analysis.
+The study demonstrates that machine learning models can effectively predict airline customer satisfaction by identifying significant predictors and providing valuable insights for improving customer service. <br/>
+The findings suggest that airlines can enhance customer satisfaction and loyalty by focusing on key factors identified in the analysis.
 
 # Implications
-For Airlines: Implementing machine learning models to predict customer satisfaction can help airlines proactively address customer concerns and improve service quality.
+For Airlines: Implementing machine learning models to predict customer satisfaction can help airlines proactively address customer concerns and improve service quality.<br/>
 For Researchers: The study contributes to the literature on machine learning applications in the airline industry, providing a framework for future research.
