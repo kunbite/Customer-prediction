@@ -1,4 +1,5 @@
-# Customer-prediction
+# Predicting Airline Customer Satisfaction Using Machine Learning Techniques
+
 
 The dissertation investigates the use of machine learning techniques to predict airline customer satisfaction. Utilizing the Kaggle "Airline Passenger Satisfaction" dataset, the study involves comprehensive data preprocessing, exploratory data analysis, and the application of multiple machine learning models to forecast customer sentiment. The research aims to identify key factors influencing satisfaction and develop predictive models to enhance customer service in the airline industry.
 
