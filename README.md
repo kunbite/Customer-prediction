@@ -3,7 +3,7 @@
 The dissertation investigates the use of machine learning techniques to predict airline customer satisfaction. Utilizing the Kaggle "Airline Passenger Satisfaction" dataset, the study involves comprehensive data preprocessing, exploratory data analysis, and the application of multiple machine learning models to forecast customer sentiment. The research aims to identify key factors influencing satisfaction and develop predictive models to enhance customer service in the airline industry.
 
 # Objectives
-Preprocess and prepare the dataset for machine learning applications.
+Preprocess and prepare the dataset for machine learning applications.<br/>
 Conduct thorough Exploratory Data Analysis (EDA) to identify significant factors influencing customer satisfaction.
 Develop, compare, and optimize various machine learning models to predict customer satisfaction accurately.
 Validate the final optimized model using a distinct test dataset.
